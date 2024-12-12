@@ -1,0 +1,5 @@
+numpy==1.19.5
+torch==1.9.0
+dgl==0.9.1
+pytorch-geometric==2.0.3
+networkx==2.6.3
